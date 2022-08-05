@@ -31,7 +31,7 @@
 ## Understanding our data
 
 Balanced data:
-![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Balanced_Dataset.png "Balanced data)
+![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Balanced_Dataset.png "Balanced data")
 
 
 The data is pretty much balanced.
