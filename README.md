@@ -39,11 +39,11 @@ The data is pretty much balanced.
 ## Text Preprocessing
 
 Real Text:
-![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Real%20Text.png) "Real Text")
+![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Real%20Text.png "Real Text")
 
 
 Fake Text:
-![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Fake%20Text.png) "Fake Text")
+![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Fake%20Text.png "Fake Text")
 
 
 
@@ -61,7 +61,7 @@ Fake Text:
 GloVe is a Global Vectors for word embedding and it is a method built on an important idea, You can derive semantic relationships between words from the co-occurrence matrix. Given a corpus having V words, the co-occurrence matrix X will be a V x V matrix, where the i th row and j th column of X, X_ij denotes how many times word i has co-occurred with word j. An example co-occurrence matrix might look as follows.
 
 Example:
-![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Example.png) "Example")
+![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Example.png "Example")
 
 
 The co-occurrence matrix for the sentence “the cat sat on the mat” with a window size of 1. As you probably noticed it is a symmetric matrix. How do we get a metric that measures semantic similarity between words from this? For that, you will need three words at a time. Let me concretely lay down this statement.
@@ -72,7 +72,7 @@ The co-occurrence matrix for the sentence “the cat sat on the mat” with a wi
 The model acheived an accuracy of 98.28% on the test data. 
 
 Accuracy:
-![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Accuracy%20.png) "Accuracy")
+![alt text](https://github.com/RathanRaju/Fake-News-Detection/blob/main/Accuracy%20.png "Accuracy")
 
 
 
